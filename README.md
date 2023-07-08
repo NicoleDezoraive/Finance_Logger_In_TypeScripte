@@ -11,7 +11,7 @@ Was undertaken as part of my **self-directed learning** journey in TypeScript, a
 Will be completed later
 
 ## Screen Shot:
-![home]([https://github.com/NicoleDezoraive/Blog-App-Frontend/blob/master/src/images/posts.JPG](https://github.com/NicoleDezoraive/Finance_Logger_In_TypeScripte/blob/master/public/imeges/home.JPG))
+![home](https://github.com/NicoleDezoraive/Finance_Logger_In_TypeScripte/blob/master/public/imeges/home.JPG)
 ![add](https://github.com/NicoleDezoraive/Finance_Logger_In_TypeScripte/blob/master/public/imeges/add.JPG)
 ## How to run
 Clone the repository:
