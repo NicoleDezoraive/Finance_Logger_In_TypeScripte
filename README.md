@@ -4,6 +4,8 @@ I developed a small project where I utilized **TypeScript** to implement expense
 The web page enables the **addition** of receipts and payments that I have made, **displaying the corresponding details** on the screen, including the recipient/sender, purpose, and amount of each transaction.
 Was undertaken as part of my **self-directed learning** journey in TypeScript, aiming to grasp TypeScript's unique features and enhancements over JavaScript.
 
+To further improve the structure of the code and take advantage of the **ES6 module** system, I split the project into multiple files. This allowed for better organization and separation of concerns. Each file contains specific functionalities and is imported/exported as needed.
+
 ## Developer:
   * Nicole Dezoraive, ניקול דזוראיב ,[Email](dezoraivenicole@gmail.com),[Git](https://github.com/NicoleDezoraive),[Linkedin](https://www.linkedin.com/in/nicole-dezoraive-124b74168)
 
